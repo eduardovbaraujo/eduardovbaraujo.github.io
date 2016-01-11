@@ -2,7 +2,7 @@ body {
   font-family: 'helvetica neue', arial, sans-serif;
   font-weight: 100;
   color: white;
-  background-image: url(background.jpg);
+  background-image: url(bg2.jpg);
   background-repeat: no-repeat;
 }
 #wrapper {
@@ -13,10 +13,10 @@ h1{
 color: white;
 }
 h4{
-	color: purple;
+	color: white;
 }
 #summary {
-	color: purple;
+	color: white;
 }
 .location{
 	color: Gray;
