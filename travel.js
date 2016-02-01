@@ -1,6 +1,6 @@
 $(function() {
 
-  $(".visited").on("click", function(event) {
+  $(".thumbnail").on("click", function(event) {
     event.preventDefault();
     var elementThatWasClicked = $(this);
     console.log(elementThatWasClicked);
